@@ -3,3 +3,16 @@
 ################################################################################
 
 /.vs/CppProject/v16
+/Config
+/Binaries/Win64/CppProjectEditor.target
+/Binaries/Win64
+/Content/StarterContent/Architecture/Floor_400x400.uasset
+/Content/StarterContent/Architecture
+/Content/StarterContent/Audio/Collapse01.uasset
+/Content/StarterContent/Audio
+/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset
+/Content/StarterContent/Blueprints/Assets
+/Content/StarterContent/Blueprints
+/Content/StarterContent
+/Saved
+/Intermediate
